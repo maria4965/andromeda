@@ -1,0 +1,12 @@
+.cccc
+{
+    background: color #0000000;
+    color: pink;
+}
+.imagem{
+    width: 20%;
+}
+.lista {
+    display: inline-block;
+    margin: 0 16px;
+}
