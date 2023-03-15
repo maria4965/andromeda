@@ -3,6 +3,15 @@
     background: color #0000000;
     color: pink;
 }
+p {
+    font-size: 18px;
+}
+.paragrafo1 {
+    font-size: 30px;
+}
+.paragrafos {
+    font-size: 16px;
+}
 .imagem{
     width: 20%;
 }
