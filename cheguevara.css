@@ -1,7 +1,7 @@
 .cccc
 {
-    background: color #0000000;
-    color: pink;
+    background: color #000000;
+    color: rgb(248, 133, 153);
 }
 p {
     font-size: 18px;
@@ -11,6 +11,7 @@ p {
 }
 .imagem{
     width: 20%;
+    background-image: linear-gradient(#f86916);
 }
 .lista {
     display: inline-block;
