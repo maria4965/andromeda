@@ -9,6 +9,12 @@ p {
 .paragrafo {
     font-size: 16px;
 }
+.paragrafo1 {
+    font-size: 30px;
+}
+.paragrafo2 {
+    font-size: 20px;
+}
 .imagem{
     width: 20%;
     background-image: linear-gradient(#f86916);
