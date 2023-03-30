@@ -3,6 +3,13 @@
     background-color: rgb(243, 194, 210);
     color: rgb(248, 133, 153);
 }
+.title {
+    color: rgb(252, 22, 117);
+}
+.imagem {
+    width: 20%;
+    background-image: linear-gradient(#f86916);
+}
 p {
     font-size: 18px;
 }
@@ -14,10 +21,6 @@ p {
 }
 .paragrafo2 {
     font-size: 20px;
-}
-.imagem{
-    width: 20%;
-    background-image: linear-gradient(#f86916);
 }
 .lista {
     display: inline-block;
