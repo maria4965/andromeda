@@ -1,0 +1,32 @@
+.cabeçalho {
+    background-color: rgb(89, 0, 255);
+}
+.title1 {
+    font-size: 16px
+}
+.paragrafo1 {
+    background-color: aqua
+}
+.imagem {
+    width: 20px;
+    background-image: ;
+}
+.paragrafos {
+    font-size: 18px;
+}
+.title3 {
+    font-size: 20px;
+}
+.paragrafo3 {
+    font-size: 30px;
+}
+.lista {
+    display: inline-block;
+    margin: 0%;
+}
+.ancora {
+    text-align: center;
+}
+footer {
+    background-color: black;
+}
