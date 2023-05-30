@@ -1,32 +1,34 @@
-.cabeçalho {
-    background-color: rgb(89, 0, 255);
-}
-.title1 {
-    font-size: 20px;
-}
-.paragrafo1 {
+.cabecalho
+{
     background-color: aqua
 }
-.imagem {
+h1 {
+    text-align: center;
+}
+h2 {
+    background-color: blueviolet;
+}
+h3{
+    padding-left: 10%;
+}
+.imagem{
     width: 20px;
-    background-image: ;
+    background-image: linear-gradient(#383d58);
+}
+p {
+    font-size: 20px
+}
+.paragrafo1 {
+ font-size:30px;
+ padding-top: 5%;
 }
 .paragrafos {
-    font-size: 18px;
-}
-.title3 {
-    font-size: 20px;
-}
-.paragrafo3 {
-    font-size: 30px;
+    font-size: 16px;
 }
 .lista {
     display: inline-block;
-    margin: 0%;
+    margin: 0 16px
 }
-.ancora {
-    text-align: center;
-}
-footer {
+footer{
     background-color: black;
 }
